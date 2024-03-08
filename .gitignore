@@ -1,0 +1,19 @@
+# Virtual environment
+myenv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE or editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency management
+*.egg-info/
+*.egg
+dist/
+build/
+*.egg-info/
